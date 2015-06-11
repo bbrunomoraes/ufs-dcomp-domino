@@ -1,0 +1,1 @@
+Projeto de agentes que competem usando árvore Minimax e poda Alpha-Beta em um jogo de dominó.
